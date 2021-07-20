@@ -1,2 +1,2 @@
 # weappTest
-my first weapp test
+my first weapp demo
